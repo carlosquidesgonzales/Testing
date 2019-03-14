@@ -1,0 +1,18 @@
+C:\Users\carlo\Desktop\Windows forms\Texas Holdem.UI\Texas Holdem.Library\bin\Debug\Texas Holdem.Library.dll
+C:\Users\carlo\Desktop\Windows forms\Texas Holdem.UI\Texas Holdem.Library\bin\Debug\Texas Holdem.Library.pdb
+C:\Users\carlo\Desktop\Windows forms\Texas Holdem.UI\Texas Holdem.Library\obj\Debug\Texas Holdem.Library.csprojAssemblyReference.cache
+C:\Users\carlo\Desktop\Windows forms\Texas Holdem.UI\Texas Holdem.Library\obj\Debug\Texas Holdem.Library.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Desktop\Windows forms\Texas Holdem.UI\Texas Holdem.Library\obj\Debug\Texas Holdem.Library.dll
+C:\Users\carlo\Desktop\Windows forms\Texas Holdem.UI\Texas Holdem.Library\obj\Debug\Texas Holdem.Library.pdb
+C:\Users\carlo\Desktop\Windows forms\Texas Holdem.UI\Texas Holdem.Library\bin\Debug\System.ValueTuple.dll
+C:\Users\carlo\Desktop\Windows forms\Texas Holdem.UI\Texas Holdem.Library\bin\Debug\System.ValueTuple.xml
+C:\Users\carlo\Desktop\Windows forms\Texas Holdem.UI\Texas Holdem.Library\obj\Debug\Texas Holdem.Library.csproj.CopyComplete
+C:\Users\carlo\Desktop\Windows forms\Projects\Texas Holdem.UI\Texas Holdem.Library\bin\Debug\Texas Holdem.Library.dll
+C:\Users\carlo\Desktop\Windows forms\Projects\Texas Holdem.UI\Texas Holdem.Library\bin\Debug\Texas Holdem.Library.pdb
+C:\Users\carlo\Desktop\Windows forms\Projects\Texas Holdem.UI\Texas Holdem.Library\bin\Debug\System.ValueTuple.dll
+C:\Users\carlo\Desktop\Windows forms\Projects\Texas Holdem.UI\Texas Holdem.Library\bin\Debug\System.ValueTuple.xml
+C:\Users\carlo\Desktop\Windows forms\Projects\Texas Holdem.UI\Texas Holdem.Library\obj\Debug\Texas Holdem.Library.csprojAssemblyReference.cache
+C:\Users\carlo\Desktop\Windows forms\Projects\Texas Holdem.UI\Texas Holdem.Library\obj\Debug\Texas Holdem.Library.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Desktop\Windows forms\Projects\Texas Holdem.UI\Texas Holdem.Library\obj\Debug\Texas Holdem.Library.csproj.CopyComplete
+C:\Users\carlo\Desktop\Windows forms\Projects\Texas Holdem.UI\Texas Holdem.Library\obj\Debug\Texas Holdem.Library.dll
+C:\Users\carlo\Desktop\Windows forms\Projects\Texas Holdem.UI\Texas Holdem.Library\obj\Debug\Texas Holdem.Library.pdb

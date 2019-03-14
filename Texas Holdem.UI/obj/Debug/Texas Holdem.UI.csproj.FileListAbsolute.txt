@@ -1,0 +1,30 @@
+C:\Users\carlo\Desktop\Windows forms\Texas Holdem.UI\Texas Holdem.UI\bin\Debug\Texas Holdem.UI.exe.config
+C:\Users\carlo\Desktop\Windows forms\Texas Holdem.UI\Texas Holdem.UI\bin\Debug\Texas Holdem.UI.exe
+C:\Users\carlo\Desktop\Windows forms\Texas Holdem.UI\Texas Holdem.UI\bin\Debug\Texas Holdem.UI.pdb
+C:\Users\carlo\Desktop\Windows forms\Texas Holdem.UI\Texas Holdem.UI\bin\Debug\Texas Holdem.Library.dll
+C:\Users\carlo\Desktop\Windows forms\Texas Holdem.UI\Texas Holdem.UI\bin\Debug\Texas Holdem.Library.pdb
+C:\Users\carlo\Desktop\Windows forms\Texas Holdem.UI\Texas Holdem.UI\obj\Debug\Texas Holdem.UI.csprojAssemblyReference.cache
+C:\Users\carlo\Desktop\Windows forms\Texas Holdem.UI\Texas Holdem.UI\obj\Debug\Texas_Holdem.UI.Properties.Resources.resources
+C:\Users\carlo\Desktop\Windows forms\Texas Holdem.UI\Texas Holdem.UI\obj\Debug\Texas Holdem.UI.csproj.GenerateResource.cache
+C:\Users\carlo\Desktop\Windows forms\Texas Holdem.UI\Texas Holdem.UI\obj\Debug\Texas Holdem.UI.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Desktop\Windows forms\Texas Holdem.UI\Texas Holdem.UI\obj\Debug\Texas Holdem.UI.csproj.CopyComplete
+C:\Users\carlo\Desktop\Windows forms\Texas Holdem.UI\Texas Holdem.UI\obj\Debug\Texas Holdem.UI.exe
+C:\Users\carlo\Desktop\Windows forms\Texas Holdem.UI\Texas Holdem.UI\obj\Debug\Texas Holdem.UI.pdb
+C:\Users\carlo\Desktop\Windows forms\Texas Holdem.UI\Texas Holdem.UI\obj\Debug\Texas_Holdem.UI.Form1.resources
+C:\Users\carlo\Desktop\Windows forms\Texas Holdem.UI\Texas Holdem.UI\bin\Debug\System.ValueTuple.dll
+C:\Users\carlo\Desktop\Windows forms\Texas Holdem.UI\Texas Holdem.UI\bin\Debug\System.ValueTuple.xml
+C:\Users\carlo\Desktop\Windows forms\Projects\Texas Holdem.UI\Texas Holdem.UI\bin\Debug\Texas Holdem.UI.exe.config
+C:\Users\carlo\Desktop\Windows forms\Projects\Texas Holdem.UI\Texas Holdem.UI\bin\Debug\Texas Holdem.UI.exe
+C:\Users\carlo\Desktop\Windows forms\Projects\Texas Holdem.UI\Texas Holdem.UI\bin\Debug\Texas Holdem.UI.pdb
+C:\Users\carlo\Desktop\Windows forms\Projects\Texas Holdem.UI\Texas Holdem.UI\bin\Debug\System.ValueTuple.dll
+C:\Users\carlo\Desktop\Windows forms\Projects\Texas Holdem.UI\Texas Holdem.UI\bin\Debug\Texas Holdem.Library.dll
+C:\Users\carlo\Desktop\Windows forms\Projects\Texas Holdem.UI\Texas Holdem.UI\bin\Debug\Texas Holdem.Library.pdb
+C:\Users\carlo\Desktop\Windows forms\Projects\Texas Holdem.UI\Texas Holdem.UI\bin\Debug\System.ValueTuple.xml
+C:\Users\carlo\Desktop\Windows forms\Projects\Texas Holdem.UI\Texas Holdem.UI\obj\Debug\Texas Holdem.UI.csprojAssemblyReference.cache
+C:\Users\carlo\Desktop\Windows forms\Projects\Texas Holdem.UI\Texas Holdem.UI\obj\Debug\Texas_Holdem.UI.Form1.resources
+C:\Users\carlo\Desktop\Windows forms\Projects\Texas Holdem.UI\Texas Holdem.UI\obj\Debug\Texas_Holdem.UI.Properties.Resources.resources
+C:\Users\carlo\Desktop\Windows forms\Projects\Texas Holdem.UI\Texas Holdem.UI\obj\Debug\Texas Holdem.UI.csproj.GenerateResource.cache
+C:\Users\carlo\Desktop\Windows forms\Projects\Texas Holdem.UI\Texas Holdem.UI\obj\Debug\Texas Holdem.UI.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Desktop\Windows forms\Projects\Texas Holdem.UI\Texas Holdem.UI\obj\Debug\Texas Holdem.UI.csproj.CopyComplete
+C:\Users\carlo\Desktop\Windows forms\Projects\Texas Holdem.UI\Texas Holdem.UI\obj\Debug\Texas Holdem.UI.exe
+C:\Users\carlo\Desktop\Windows forms\Projects\Texas Holdem.UI\Texas Holdem.UI\obj\Debug\Texas Holdem.UI.pdb
